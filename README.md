@@ -26,8 +26,6 @@ The system compares the performance of Arrays and Singly Linked Lists by process
 ## Language
 
 - C++
-- Standard Template Library (STL)
-- Object-Oriented Programming (OOP)
 
 ## Datasets
 
